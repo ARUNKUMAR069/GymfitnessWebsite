@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.border-green {
+
+    border: 1px solid rgb(38, 255, 0);
+}
+
+.align-center {
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.coloumn-direction {
+    flex-direction: column;
+}
+
+.width {
+    width: 80vw;
+    margin: 0px auto;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.btn {
+    width: 106.33px;
+    height: 7vh;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    box-shadow: #4dd0e7 2px 3px 7px 0px;
+
+}
+
+.purple-color {
+    color: purple;
+}
+.text-center{
+    text-align: center;
+}

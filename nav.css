@@ -1,0 +1,28 @@
+nav {
+    color: white;
+    background-color: black;
+
+    height: 8vh;
+    width: calc(100vw-4vw);
+    justify-content: space-between;
+    padding: 0px 2vw 0px 2vw;
+
+}
+
+nav ul {
+
+    gap: 40px;
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+    font-weight: 600;
+    color: rgb(126, 19, 136);
+}
